@@ -297,10 +297,10 @@ st.set_page_config(page_title="Simulation & Viz", layout="wide")
 st.title("⚙️ Load Selection & Visualization of Energy Consumption")
 
 # --- Globals/Configuration ---
-DEFAULT_MATLAB_SCRIPT_PATH = '/Users/rishikeshtiwari/THK/Case Studies/Case Study IOT'
+DEFAULT_MATLAB_SCRIPT_PATH = ''
 INFLUX_URL = "https://eu-central-1-1.aws.cloud2.influxdata.com"
-INFLUX_TOKEN_SIM = "Jzj8SoxpTpDq5FM0JPoYx93wlmJC7BJ7pqYV9GwJMrdp_33DemOXh7SoTIQaLgBfKqnqgdtUAiBilEgd0cksmA=="
-INFLUX_TOKEN_VIZ = "ZKu1zQnBhbh1_ywDqH6nQqlVapG_3Nv8v3gA9u4dD_isRGTUtWHprjJwACMO3oG7y2hPkxRRhPvUy23LuUOHVw=="
+INFLUX_TOKEN_SIM = ""
+INFLUX_TOKEN_VIZ = ""
 INFLUX_ORG = "Student"
 INFLUX_BUCKET = "CPEMS"
 
