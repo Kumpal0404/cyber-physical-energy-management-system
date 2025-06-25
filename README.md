@@ -1,5 +1,3 @@
-# cyber-physical-energy-management-system
-This repository contains the case study report of electrical energy management
 #📌 Project Title
 Cyber-Physical Energy Management System (CPEMS) – Load Simulation and Forecasting Platform
 
