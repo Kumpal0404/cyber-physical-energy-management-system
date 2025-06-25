@@ -1,4 +1,6 @@
-# --- Imports ---
+# --- Imports for Matlab Simulation ---
+# --- This code runs the matlab simulation based on load selection by user interface and upload the data in two different formats into the influxDB ---
+
 import streamlit as st
 import pandas as pd
 import numpy as np
