@@ -1,4 +1,6 @@
 # --- Imports for Forecasting ---
+# --- Code use to create the page for train the model for latest load pattern and mutlti-horizon load forecating ---
+
 import numpy as np
 import pandas as pd
 import torch
