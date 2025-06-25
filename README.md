@@ -1,6 +1,6 @@
-## 📌 Project Title
+### 📌 Project Title  
 
-**H1Cyber-Physical Energy Management System (CPEMS) – Load Simulation and Forecasting Platform**
+## Cyber-Physical Energy Management System (CPEMS) – Load Simulation and Forecasting Platform
 
 📖 Description
 This project implements a cyber-physical energy management system focused on industrial load simulation and energy forecasting. It integrates MATLAB/Simulink, Python, and InfluxDB with a Streamlit interface to simulate realistic industrial load profiles, generate synthetic measurement data, and forecast future energy consumption using a GRU-based neural network model.
